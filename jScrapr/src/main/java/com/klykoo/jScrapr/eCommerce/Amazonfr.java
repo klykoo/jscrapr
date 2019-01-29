@@ -1,8 +1,8 @@
-package eCommerce;
+package com.klykoo.jScrapr.eCommerce;
 
 import com.klykoo.jScrapr.ScraprInterface;
 
-public class Ubaldi implements ScraprInterface{
+public class Amazonfr implements ScraprInterface{
 
 	public float getPrice() {
 		// TODO Auto-generated method stub

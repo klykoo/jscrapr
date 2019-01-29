@@ -1,8 +1,8 @@
-package eCommerce;
+package com.klykoo.jScrapr.Classified;
 
 import com.klykoo.jScrapr.ScraprInterface;
 
-public class Amazonfr implements ScraprInterface{
+public class Leboncoin implements ScraprInterface{
 
 	public float getPrice() {
 		// TODO Auto-generated method stub
